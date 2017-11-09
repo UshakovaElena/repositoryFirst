@@ -1,0 +1,10 @@
+.btn{
+	padding: 7px 12px;
+	font-family: Arial,sans-serif;
+	font-size: 20px;
+	border-radius: 4px;
+	cursor: pointer;
+}
+.btn:hover{
+	box-shadow: 0 0 10px 0 rgba(0,0,0,.21);
+}
